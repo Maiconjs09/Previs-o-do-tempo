@@ -13,7 +13,7 @@ Neste projeto, utilizei as seguintes tecnologias:
 
 ## Como acessar o projeto
 
-Você pode acessar o meu portfólio diretamente pelo link: [Projeto Previsão do tempo](https://github.com/Maiconjs09/Previs-o-do-tempo)
+Você pode acessar o meu portfólio diretamente pelo link: [Projeto Previsão do tempo](https://maiconjs09.github.io/Previs-o-do-tempo/)
 
 ## Como executar localmente
 
